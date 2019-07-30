@@ -1,4 +1,10 @@
 # li
+make PREFIX=/usr/local
+sudo make PREFIX=/usr/local install
+
+brew install gcc
+
+
 
 在oppcc过程中，命令语句的参数：opencc -i wiki.txt -o wiki_1.txt -c t2s.json
 
